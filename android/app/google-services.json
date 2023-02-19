@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506370116318",
+    "project_id": "dev-meet-e4e85",
+    "storage_bucket": "dev-meet-e4e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506370116318:android:3e05b3c1f7e9c8ae0d904f",
+        "android_client_info": {
+          "package_name": "com.example.dev_meets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506370116318-8g5couii19tm8mdn33hk5tlbjukvu8i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBsf4msiQg9900wLLrLHHbQwV0P5GaAng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506370116318-8g5couii19tm8mdn33hk5tlbjukvu8i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
